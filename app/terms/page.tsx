@@ -76,10 +76,10 @@ export default function TermsAndConditions() {
                   <span className="mr-3 text-2xl">📧</span>{" "}
                   <span>
                     <a
-                      href="mailto:support@sugarcare.ai"
+                      href="mailto:support@sugarcare.cloud"
                       className="text-indigo-600 hover:text-indigo-700 hover:underline font-semibold"
                     >
-                      support@sugarcare.ai
+                      support@sugarcare.cloud
                     </a>
                   </span>
                 </p>
@@ -377,10 +377,10 @@ export default function TermsAndConditions() {
               You may terminate your account at any time through the app or by
               contacting{" "}
               <a
-                href="mailto:support@sugarcare.ai"
+                href="mailto:support@sugarcare.cloud"
                 className="text-[#4252FF] hover:underline"
               >
-                support@sugarcare.ai
+                support@sugarcare.cloud
               </a>
               .
             </p>
@@ -439,10 +439,10 @@ export default function TermsAndConditions() {
                   <span className="mr-3 text-2xl">📧</span>{" "}
                   <span>
                     <a
-                      href="mailto:support@sugarcare.ai"
+                      href="mailto:support@sugarcare.cloud"
                       className="text-indigo-600 hover:text-indigo-700 hover:underline font-semibold"
                     >
-                      support@sugarcare.ai
+                      support@sugarcare.cloud
                     </a>
                   </span>
                 </p>
