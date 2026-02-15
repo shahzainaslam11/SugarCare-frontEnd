@@ -1,14 +1,8 @@
 export default function PrivacyPolicy() {
   return (
-<<<<<<< HEAD
     <div className="min-h-screen bg-gradient-to-b from-white via-slate-50/50 to-white">
       <div className="max-w-5xl mx-auto px-6 sm:px-8 lg:px-12 py-14 sm:py-16 md:py-20 lg:py-24">
         <div className="text-center mb-12 md:mb-16 pb-12 border-b border-slate-200/60 relative">
-=======
-    <div className="min-h-screen bg-gradient-to-b from-white via-gray-50/30 to-white">
-      <div className="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 py-12 md:py-16 lg:py-20">
-        <div className="text-center mb-12 md:mb-16 pb-12 border-b-2 border-gray-200 relative">
->>>>>>> 9fa9bd377c4b926dcfbba67987e7b20a80f51dd4
           <div className="absolute inset-0 bg-gradient-to-b from-indigo-50/50 to-transparent opacity-50 rounded-3xl"></div>
           <div className="relative z-10">
             <div className="inline-flex items-center gap-2 mb-6 px-5 py-2.5 bg-indigo-100 rounded-full border border-indigo-200">
@@ -24,13 +18,8 @@ export default function PrivacyPolicy() {
               <span className="px-4 py-2 bg-green-50 text-green-700 rounded-full text-sm font-semibold border border-green-200">
                 ✓ UK GDPR Compliant
               </span>
-<<<<<<< HEAD
               <p className="text-muted-foreground text-base md:text-lg">
                 Last Updated: February 15, 2026
-=======
-              <p className="text-gray-600 text-base md:text-lg font-medium">
-                Last Updated: November 13, 2025
->>>>>>> 9fa9bd377c4b926dcfbba67987e7b20a80f51dd4
               </p>
             </div>
           </div>
@@ -42,32 +31,18 @@ export default function PrivacyPolicy() {
               <div className="w-12 h-12 bg-gradient-to-br from-indigo-600 to-blue-600 rounded-xl flex items-center justify-center">
                 <span className="text-white font-bold text-xl">1</span>
               </div>
-<<<<<<< HEAD
               <h2 className="text-2xl sm:text-3xl md:text-4xl font-semibold tracking-tight text-slate-900">
-=======
-              <h2 className="text-2xl sm:text-3xl md:text-4xl font-extrabold text-gray-900">
->>>>>>> 9fa9bd377c4b926dcfbba67987e7b20a80f51dd4
                 Introduction
               </h2>
             </div>
             <div className="space-y-5">
-<<<<<<< HEAD
               <p className="text-slate-600 text-base md:text-lg mb-4 leading-relaxed">
                 Welcome to SugarCare — a digital health platform available via mobile app and web, designed to help individuals with diabetes monitor, track, and manage their blood sugar levels through data analytics and AI-powered insights.
               </p>
               <p className="text-slate-600 text-base md:text-lg mb-4 leading-relaxed">
-                SugarCare is operated by <span className="font-semibold text-gray-900">SugarCare Technologies Ltd.</span> ("we", "our", or "us").
+                SugarCare is operated by <span className="font-semibold text-slate-900">SugarCare Technologies Ltd.</span> ("we", "our", or "us").
               </p>
               <p className="text-slate-600 text-base md:text-lg mb-4 leading-relaxed">
-=======
-              <p className="text-gray-700 text-base md:text-lg mb-4 leading-relaxed">
-                Welcome to SugarCare — a digital health platform available via mobile app and web, designed to help individuals with diabetes monitor, track, and manage their blood sugar levels through data analytics and AI-powered insights.
-              </p>
-              <p className="text-gray-700 text-base md:text-lg mb-4 leading-relaxed">
-                SugarCare is operated by <span className="font-semibold text-gray-900">SugarCare Technologies Ltd.</span> ("we", "our", or "us").
-              </p>
-              <p className="text-gray-700 text-base md:text-lg mb-4 leading-relaxed">
->>>>>>> 9fa9bd377c4b926dcfbba67987e7b20a80f51dd4
                 This Privacy Policy explains how we collect, use, store, and protect your personal data in compliance with the UK General Data Protection Regulation (UK GDPR) and the Data Protection Act 2018.
               </p>
               <p className="text-gray-700 text-base md:text-lg mb-4 leading-relaxed font-semibold text-gray-900 bg-yellow-50 border-l-4 border-yellow-400 p-4 rounded-r-lg">
@@ -81,11 +56,7 @@ export default function PrivacyPolicy() {
               <div className="w-12 h-12 bg-gradient-to-br from-indigo-600 to-blue-600 rounded-xl flex items-center justify-center">
                 <span className="text-white font-bold text-xl">2</span>
               </div>
-<<<<<<< HEAD
               <h2 className="text-2xl sm:text-3xl md:text-4xl font-semibold tracking-tight text-slate-900">
-=======
-              <h2 className="text-2xl sm:text-3xl md:text-4xl font-extrabold text-gray-900">
->>>>>>> 9fa9bd377c4b926dcfbba67987e7b20a80f51dd4
                 Data Controller
               </h2>
             </div>
@@ -103,11 +74,7 @@ export default function PrivacyPolicy() {
                 </p>
                 <p className="text-gray-700 text-base md:text-lg flex items-start">
                   <span className="mr-3 text-2xl">📧</span> 
-<<<<<<< HEAD
                   <span><span className="font-semibold">Email:</span> <a href="mailto:support@sugarcare.cloud" className="text-indigo-600 hover:text-indigo-700 hover:underline ml-1 font-semibold">support@sugarcare.cloud</a></span>
-=======
-                  <span><span className="font-semibold">Email:</span> <a href="mailto:privacy@sugarcare.ai" className="text-indigo-600 hover:text-indigo-700 hover:underline ml-1 font-semibold">privacy@sugarcare.ai</a></span>
->>>>>>> 9fa9bd377c4b926dcfbba67987e7b20a80f51dd4
                 </p>
               </div>
             </div>
@@ -118,11 +85,7 @@ export default function PrivacyPolicy() {
               <div className="w-12 h-12 bg-gradient-to-br from-indigo-600 to-blue-600 rounded-xl flex items-center justify-center">
                 <span className="text-white font-bold text-xl">3</span>
               </div>
-<<<<<<< HEAD
               <h2 className="text-2xl sm:text-3xl md:text-4xl font-semibold tracking-tight text-slate-900">
-=======
-              <h2 className="text-2xl sm:text-3xl md:text-4xl font-extrabold text-gray-900">
->>>>>>> 9fa9bd377c4b926dcfbba67987e7b20a80f51dd4
                 What Data We Collect
               </h2>
             </div>
@@ -187,11 +150,7 @@ export default function PrivacyPolicy() {
               <div className="w-12 h-12 bg-gradient-to-br from-indigo-600 to-blue-600 rounded-xl flex items-center justify-center">
                 <span className="text-white font-bold text-xl">4</span>
               </div>
-<<<<<<< HEAD
               <h2 className="text-2xl sm:text-3xl md:text-4xl font-semibold tracking-tight text-slate-900">
-=======
-              <h2 className="text-2xl sm:text-3xl md:text-4xl font-extrabold text-gray-900">
->>>>>>> 9fa9bd377c4b926dcfbba67987e7b20a80f51dd4
                 Lawful Basis for Processing
               </h2>
             </div>
@@ -265,11 +224,7 @@ export default function PrivacyPolicy() {
               </div>
             </div>
             <p className="text-gray-700 text-base md:text-lg leading-relaxed bg-blue-50 border-l-4 border-blue-400 p-4 rounded-r-lg">
-<<<<<<< HEAD
               You may withdraw your consent at any time via your account settings or by contacting us at <a href="mailto:support@sugarcare.cloud" className="text-indigo-600 hover:text-indigo-700 hover:underline font-semibold">support@sugarcare.cloud</a>.
-=======
-              You may withdraw your consent at any time via your account settings or by contacting us at <a href="mailto:privacy@sugarcare.ai" className="text-indigo-600 hover:text-indigo-700 hover:underline font-semibold">privacy@sugarcare.ai</a>.
->>>>>>> 9fa9bd377c4b926dcfbba67987e7b20a80f51dd4
             </p>
           </section>
 
@@ -351,11 +306,7 @@ export default function PrivacyPolicy() {
             We retain your data only for as long as necessary to provide our services or comply with legal obligations.
           </p>
           <p className="text-gray-700 text-sm md:text-base mb-3 md:mb-4 leading-relaxed">
-<<<<<<< HEAD
             You can request account deletion at any time by contacting <a href="mailto:support@sugarcare.cloud" className="text-[#4252FF] hover:underline">support@sugarcare.cloud</a>.
-=======
-            You can request account deletion at any time by contacting <a href="mailto:privacy@sugarcare.ai" className="text-[#4252FF] hover:underline">privacy@sugarcare.ai</a>.
->>>>>>> 9fa9bd377c4b926dcfbba67987e7b20a80f51dd4
           </p>
           <p className="text-gray-700 text-sm md:text-base mb-3 md:mb-4 leading-relaxed">
             Upon deletion, your data will be securely erased within 30 days unless retention is required by law.
@@ -379,11 +330,7 @@ export default function PrivacyPolicy() {
             <li><strong className="text-gray-900">Right to Withdraw Consent</strong> – Withdraw consent for any processing at any time.</li>
           </ul>
           <p className="text-gray-700 text-sm md:text-base mb-3 md:mb-4 leading-relaxed">
-<<<<<<< HEAD
             To exercise these rights, please contact us at <a href="mailto:support@sugarcare.cloud" className="text-[#4252FF] hover:underline">support@sugarcare.cloud</a>.
-=======
-            To exercise these rights, please contact us at <a href="mailto:privacy@sugarcare.ai" className="text-[#4252FF] hover:underline">privacy@sugarcare.ai</a>.
->>>>>>> 9fa9bd377c4b926dcfbba67987e7b20a80f51dd4
           </p>
           <p className="text-gray-700 text-sm md:text-base mb-3 md:mb-4 leading-relaxed">
             If you are not satisfied with our response, you may file a complaint with the Information Commissioner's Office (ICO) at{" "}
@@ -448,11 +395,7 @@ export default function PrivacyPolicy() {
               <div className="w-12 h-12 bg-gradient-to-br from-indigo-600 to-blue-600 rounded-xl flex items-center justify-center">
                 <span className="text-white font-bold text-xl">14</span>
               </div>
-<<<<<<< HEAD
               <h2 className="text-2xl sm:text-3xl md:text-4xl font-semibold tracking-tight text-slate-900">
-=======
-              <h2 className="text-2xl sm:text-3xl md:text-4xl font-extrabold text-gray-900">
->>>>>>> 9fa9bd377c4b926dcfbba67987e7b20a80f51dd4
                 Contact Us
               </h2>
             </div>
@@ -466,11 +409,7 @@ export default function PrivacyPolicy() {
               <div className="space-y-3">
                 <p className="text-gray-700 text-base md:text-lg flex items-start">
                   <span className="mr-3 text-2xl">📧</span> 
-<<<<<<< HEAD
                   <span><a href="mailto:support@sugarcare.cloud" className="text-indigo-600 hover:text-indigo-700 hover:underline font-semibold">support@sugarcare.cloud</a></span>
-=======
-                  <span><a href="mailto:privacy@sugarcare.ai" className="text-indigo-600 hover:text-indigo-700 hover:underline font-semibold">privacy@sugarcare.ai</a></span>
->>>>>>> 9fa9bd377c4b926dcfbba67987e7b20a80f51dd4
                 </p>
                 <p className="text-gray-700 text-base md:text-lg flex items-start">
                   <span className="mr-3 text-2xl">📍</span> 

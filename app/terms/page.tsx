@@ -76,17 +76,10 @@ export default function TermsAndConditions() {
                   <span className="mr-3 text-2xl">📧</span>{" "}
                   <span>
                     <a
-<<<<<<< HEAD
                       href="mailto:support@sugarcare.cloud"
                       className="text-indigo-600 hover:text-indigo-700 hover:underline font-semibold"
                     >
                       support@sugarcare.cloud
-=======
-                      href="mailto:support@sugarcare.ai"
-                      className="text-indigo-600 hover:text-indigo-700 hover:underline font-semibold"
-                    >
-                      support@sugarcare.ai
->>>>>>> 9fa9bd377c4b926dcfbba67987e7b20a80f51dd4
                     </a>
                   </span>
                 </p>
@@ -384,17 +377,10 @@ export default function TermsAndConditions() {
               You may terminate your account at any time through the app or by
               contacting{" "}
               <a
-<<<<<<< HEAD
                 href="mailto:support@sugarcare.cloud"
                 className="text-[#4252FF] hover:underline"
               >
                 support@sugarcare.cloud
-=======
-                href="mailto:support@sugarcare.ai"
-                className="text-[#4252FF] hover:underline"
-              >
-                support@sugarcare.ai
->>>>>>> 9fa9bd377c4b926dcfbba67987e7b20a80f51dd4
               </a>
               .
             </p>
@@ -453,17 +439,10 @@ export default function TermsAndConditions() {
                   <span className="mr-3 text-2xl">📧</span>{" "}
                   <span>
                     <a
-<<<<<<< HEAD
                       href="mailto:support@sugarcare.cloud"
                       className="text-indigo-600 hover:text-indigo-700 hover:underline font-semibold"
                     >
                       support@sugarcare.cloud
-=======
-                      href="mailto:support@sugarcare.ai"
-                      className="text-indigo-600 hover:text-indigo-700 hover:underline font-semibold"
-                    >
-                      support@sugarcare.ai
->>>>>>> 9fa9bd377c4b926dcfbba67987e7b20a80f51dd4
                     </a>
                   </span>
                 </p>
