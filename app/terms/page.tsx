@@ -424,6 +424,59 @@ export default function TermsAndConditions() {
                 <span className="text-white font-bold text-xl">17</span>
               </div>
               <h2 className="text-2xl sm:text-3xl md:text-4xl font-extrabold text-gray-900">
+                Account & Data Deletion
+              </h2>
+            </div>
+            <div className="space-y-5">
+              <p className="text-gray-700 text-base md:text-lg leading-relaxed">
+                You have the right to request deletion of your account and all associated personal data at any time.
+              </p>
+              <div className="p-6 bg-gradient-to-br from-red-50 to-orange-50 rounded-2xl border-2 border-red-200 shadow-md">
+                <h3 className="text-xl md:text-2xl font-bold text-gray-900 mb-4 flex items-center gap-2">
+                  <span className="text-2xl">🗑️</span> How to Delete Your Account
+                </h3>
+                <ul className="list-disc list-inside text-gray-700 space-y-2 ml-4 text-base md:text-lg">
+                  <li>
+                    <span className="font-semibold text-gray-900">In-App:</span> Go to Settings → Delete Account
+                  </li>
+                  <li>
+                    <span className="font-semibold text-gray-900">Email:</span>{" "}
+                    <a
+                      href="mailto:support@sugarcare.cloud"
+                      className="text-indigo-600 hover:text-indigo-700 hover:underline font-semibold"
+                    >
+                      support@sugarcare.cloud
+                    </a>
+                  </li>
+                </ul>
+              </div>
+              <div className="p-6 bg-blue-50 rounded-xl border border-blue-200">
+                <p className="text-gray-700 text-base md:text-lg leading-relaxed mb-3">
+                  <span className="font-semibold text-gray-900">Deletion Timeline:</span> Your personal data will be permanently deleted within 7–30 days after your request is verified.
+                </p>
+                <p className="text-gray-700 text-base md:text-lg leading-relaxed">
+                  <span className="font-semibold text-gray-900">Data Removed:</span> All personal information including name, email, phone number, health data, and app activity will be completely removed from our systems.
+                </p>
+              </div>
+              <p className="text-gray-700 text-base md:text-lg leading-relaxed">
+                For complete details, please review our{" "}
+                <a
+                  href="/data-deletion"
+                  className="text-indigo-600 hover:text-indigo-700 hover:underline font-semibold"
+                >
+                  Data Deletion Policy
+                </a>
+                .
+              </p>
+            </div>
+          </section>
+
+          <section className="mb-10 md:mb-12 p-8 md:p-10 bg-white rounded-2xl shadow-lg border border-gray-100 hover:shadow-xl transition-shadow duration-300">
+            <div className="flex items-center gap-3 mb-6">
+              <div className="w-12 h-12 bg-gradient-to-br from-indigo-600 to-blue-600 rounded-xl flex items-center justify-center">
+                <span className="text-white font-bold text-xl">18</span>
+              </div>
+              <h2 className="text-2xl sm:text-3xl md:text-4xl font-extrabold text-gray-900">
                 Contact Us
               </h2>
             </div>

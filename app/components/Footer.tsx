@@ -73,6 +73,11 @@ export default function Footer() {
                   Terms & Conditions
                 </Link>
               </li>
+              <li>
+                <Link href="/data-deletion" className="text-muted-foreground hover:text-indigo-600 transition-all duration-300 font-medium hover:translate-x-1 inline-block">
+                  Data Deletion Policy
+                </Link>
+              </li>
             </ul>
           </div>
 

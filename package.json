@@ -2,11 +2,15 @@
   "name": "sugarcare_web_app",
   "version": "0.1.0",
   "private": true,
+  "engines": {
+    "node": ">=20"
+  },
   "scripts": {
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "eslint"
+    "lint": "eslint",
+    "audit": "npm audit"
   },
   "dependencies": {
     "next": "16.0.2",
