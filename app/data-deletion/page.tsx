@@ -86,10 +86,10 @@ export default function DataDeletionPolicy() {
                   <p className="text-gray-700 text-base md:text-lg">
                     <span className="font-semibold text-gray-900">Email:</span>{" "}
                     <a
-                      href="mailto:support@sugarcare.cloud"
+                      href="mailto:info@helixaai.com"
                       className="text-indigo-600 hover:text-indigo-700 hover:underline font-semibold"
                     >
-                      support@sugarcare.cloud
+                      info@helixaai.com
                     </a>
                   </p>
                   <p className="text-gray-700 text-base md:text-lg mt-2">
@@ -218,10 +218,10 @@ export default function DataDeletionPolicy() {
                   <span className="mr-3 text-2xl">📧</span>
                   <span>
                     <a
-                      href="mailto:support@sugarcare.cloud"
+                      href="mailto:info@helixaai.com"
                       className="text-indigo-600 hover:text-indigo-700 hover:underline font-semibold"
                     >
-                      support@sugarcare.cloud
+                      info@helixaai.com
                     </a>
                   </span>
                 </p>

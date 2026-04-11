@@ -89,10 +89,10 @@ export default function Footer() {
               <li>
                 <span className="font-semibold text-slate-900 block mb-1">Support</span>
                 <a
-                  href="mailto:support@sugarcare.cloud"
+                  href="mailto:info@helixaai.com"
                   className="text-indigo-600 hover:text-indigo-700 transition-colors duration-300 font-medium"
                 >
-                  support@sugarcare.cloud
+                  info@helixaai.com
                 </a>
               </li>
               <li>

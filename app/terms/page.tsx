@@ -76,10 +76,10 @@ export default function TermsAndConditions() {
                   <span className="mr-3 text-2xl">📧</span>{" "}
                   <span>
                     <a
-                      href="mailto:support@sugarcare.cloud"
+                      href="mailto:info@helixaai.com"
                       className="text-indigo-600 hover:text-indigo-700 hover:underline font-semibold"
                     >
-                      support@sugarcare.cloud
+                      info@helixaai.com
                     </a>
                   </span>
                 </p>
@@ -377,10 +377,10 @@ export default function TermsAndConditions() {
               You may terminate your account at any time through the app or by
               contacting{" "}
               <a
-                href="mailto:support@sugarcare.cloud"
+                href="mailto:info@helixaai.com"
                 className="text-[#4252FF] hover:underline"
               >
-                support@sugarcare.cloud
+                info@helixaai.com
               </a>
               .
             </p>
@@ -442,10 +442,10 @@ export default function TermsAndConditions() {
                   <li>
                     <span className="font-semibold text-gray-900">Email:</span>{" "}
                     <a
-                      href="mailto:support@sugarcare.cloud"
+                      href="mailto:info@helixaai.com"
                       className="text-indigo-600 hover:text-indigo-700 hover:underline font-semibold"
                     >
-                      support@sugarcare.cloud
+                      info@helixaai.com
                     </a>
                   </li>
                 </ul>
@@ -492,10 +492,10 @@ export default function TermsAndConditions() {
                   <span className="mr-3 text-2xl">📧</span>{" "}
                   <span>
                     <a
-                      href="mailto:support@sugarcare.cloud"
+                      href="mailto:info@helixaai.com"
                       className="text-indigo-600 hover:text-indigo-700 hover:underline font-semibold"
                     >
-                      support@sugarcare.cloud
+                      info@helixaai.com
                     </a>
                   </span>
                 </p>

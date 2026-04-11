@@ -6,7 +6,9 @@ export default function PrivacyPolicy() {
           <div className="absolute inset-0 bg-gradient-to-b from-indigo-50/50 to-transparent opacity-50 rounded-3xl"></div>
           <div className="relative z-10">
             <div className="inline-flex items-center gap-2 mb-6 px-5 py-2.5 bg-indigo-100 rounded-full border border-indigo-200">
-              <span className="text-indigo-600 font-bold text-sm md:text-base tracking-wide">Legal Document</span>
+              <span className="text-indigo-600 font-bold text-sm md:text-base tracking-wide">
+                Legal Document
+              </span>
             </div>
             <h1 className="text-4xl sm:text-5xl md:text-6xl lg:text-7xl font-extrabold text-gray-900 mb-6 md:mb-8 leading-tight">
               Privacy Policy
@@ -37,16 +39,27 @@ export default function PrivacyPolicy() {
             </div>
             <div className="space-y-5">
               <p className="text-slate-600 text-base md:text-lg mb-4 leading-relaxed">
-                Welcome to SugarCare — a digital health platform available via mobile app and web, designed to help individuals with diabetes monitor, track, and manage their blood sugar levels through data analytics and AI-powered insights.
+                Welcome to SugarCare — a digital health platform available via
+                mobile app and web, designed to help individuals with diabetes
+                monitor, track, and manage their blood sugar levels through data
+                analytics and AI-powered insights.
               </p>
               <p className="text-slate-600 text-base md:text-lg mb-4 leading-relaxed">
-                SugarCare is operated by <span className="font-semibold text-slate-900">SugarCare Technologies Ltd.</span> ("we", "our", or "us").
+                SugarCare is operated by{" "}
+                <span className="font-semibold text-slate-900">
+                  SugarCare Technologies Ltd.
+                </span>{" "}
+                ("we", "our", or "us").
               </p>
               <p className="text-slate-600 text-base md:text-lg mb-4 leading-relaxed">
-                This Privacy Policy explains how we collect, use, store, and protect your personal data in compliance with the UK General Data Protection Regulation (UK GDPR) and the Data Protection Act 2018.
+                This Privacy Policy explains how we collect, use, store, and
+                protect your personal data in compliance with the UK General
+                Data Protection Regulation (UK GDPR) and the Data Protection Act
+                2018.
               </p>
               <p className="text-gray-700 text-base md:text-lg mb-4 leading-relaxed font-semibold text-gray-900 bg-yellow-50 border-l-4 border-yellow-400 p-4 rounded-r-lg">
-                By using SugarCare, you agree to this Privacy Policy. If you do not agree, please discontinue use of the app and web platform.
+                By using SugarCare, you agree to this Privacy Policy. If you do
+                not agree, please discontinue use of the app and web platform.
               </p>
             </div>
           </section>
@@ -69,12 +82,23 @@ export default function PrivacyPolicy() {
               </p>
               <div className="space-y-3">
                 <p className="text-gray-700 text-base md:text-lg flex items-start">
-                  <span className="mr-3 text-2xl">📍</span> 
-                  <span><span className="font-semibold">Registered Office:</span> London, United Kingdom</span>
+                  <span className="mr-3 text-2xl">📍</span>
+                  <span>
+                    <span className="font-semibold">Registered Office:</span>{" "}
+                    London, United Kingdom
+                  </span>
                 </p>
                 <p className="text-gray-700 text-base md:text-lg flex items-start">
-                  <span className="mr-3 text-2xl">📧</span> 
-                  <span><span className="font-semibold">Email:</span> <a href="mailto:support@sugarcare.cloud" className="text-indigo-600 hover:text-indigo-700 hover:underline ml-1 font-semibold">support@sugarcare.cloud</a></span>
+                  <span className="mr-3 text-2xl">📧</span>
+                  <span>
+                    <span className="font-semibold">Email:</span>{" "}
+                    <a
+                      href="mailto:info@helixaai.com"
+                      className="text-indigo-600 hover:text-indigo-700 hover:underline ml-1 font-semibold"
+                    >
+                      info@helixaai.com
+                    </a>
+                  </span>
                 </p>
               </div>
             </div>
@@ -90,13 +114,16 @@ export default function PrivacyPolicy() {
               </h2>
             </div>
             <p className="text-gray-700 text-base md:text-lg mb-8 leading-relaxed">
-              We may collect and process the following categories of personal data:
+              We may collect and process the following categories of personal
+              data:
             </p>
-            
+
             <div className="space-y-6">
               <div className="p-6 bg-indigo-50/50 rounded-xl border border-indigo-100 hover:border-indigo-200 transition-colors duration-300">
                 <h3 className="text-xl md:text-2xl font-bold text-gray-900 mb-4 flex items-center gap-2">
-                  <span className="w-8 h-8 bg-indigo-600 text-white rounded-lg flex items-center justify-center text-sm font-bold">a</span>
+                  <span className="w-8 h-8 bg-indigo-600 text-white rounded-lg flex items-center justify-center text-sm font-bold">
+                    a
+                  </span>
                   Account Information
                 </h3>
                 <ul className="list-disc list-inside text-gray-700 space-y-2 ml-4 text-base md:text-lg">
@@ -107,7 +134,9 @@ export default function PrivacyPolicy() {
 
               <div className="p-6 bg-blue-50/50 rounded-xl border border-blue-100 hover:border-blue-200 transition-colors duration-300">
                 <h3 className="text-xl md:text-2xl font-bold text-gray-900 mb-4 flex items-center gap-2">
-                  <span className="w-8 h-8 bg-blue-600 text-white rounded-lg flex items-center justify-center text-sm font-bold">b</span>
+                  <span className="w-8 h-8 bg-blue-600 text-white rounded-lg flex items-center justify-center text-sm font-bold">
+                    b
+                  </span>
                   Health and Lifestyle Data
                 </h3>
                 <ul className="list-disc list-inside text-gray-700 space-y-2 ml-4 text-base md:text-lg">
@@ -121,7 +150,9 @@ export default function PrivacyPolicy() {
 
               <div className="p-6 bg-purple-50/50 rounded-xl border border-purple-100 hover:border-purple-200 transition-colors duration-300">
                 <h3 className="text-xl md:text-2xl font-bold text-gray-900 mb-4 flex items-center gap-2">
-                  <span className="w-8 h-8 bg-purple-600 text-white rounded-lg flex items-center justify-center text-sm font-bold">c</span>
+                  <span className="w-8 h-8 bg-purple-600 text-white rounded-lg flex items-center justify-center text-sm font-bold">
+                    c
+                  </span>
                   AI/ML Data
                 </h3>
                 <ul className="list-disc list-inside text-gray-700 space-y-2 ml-4 text-base md:text-lg">
@@ -133,7 +164,9 @@ export default function PrivacyPolicy() {
 
               <div className="p-6 bg-gray-50 rounded-xl border border-gray-200 hover:border-gray-300 transition-colors duration-300">
                 <h3 className="text-xl md:text-2xl font-bold text-gray-900 mb-4 flex items-center gap-2">
-                  <span className="w-8 h-8 bg-gray-700 text-white rounded-lg flex items-center justify-center text-sm font-bold">d</span>
+                  <span className="w-8 h-8 bg-gray-700 text-white rounded-lg flex items-center justify-center text-sm font-bold">
+                    d
+                  </span>
                   Device & Technical Information
                 </h3>
                 <ul className="list-disc list-inside text-gray-700 space-y-2 ml-4 text-base md:text-lg">
@@ -155,7 +188,8 @@ export default function PrivacyPolicy() {
               </h2>
             </div>
             <p className="text-gray-700 text-base md:text-lg mb-6 leading-relaxed">
-              Under UK GDPR, we process your personal data based on the following legal grounds:
+              Under UK GDPR, we process your personal data based on the
+              following legal grounds:
             </p>
             <div className="overflow-x-auto mb-6 -mx-4 sm:mx-0">
               <div className="inline-block min-w-full align-middle">
@@ -224,171 +258,283 @@ export default function PrivacyPolicy() {
               </div>
             </div>
             <p className="text-gray-700 text-base md:text-lg leading-relaxed bg-blue-50 border-l-4 border-blue-400 p-4 rounded-r-lg">
-              You may withdraw your consent at any time via your account settings or by contacting us at <a href="mailto:support@sugarcare.cloud" className="text-indigo-600 hover:text-indigo-700 hover:underline font-semibold">support@sugarcare.cloud</a>.
+              You may withdraw your consent at any time via your account
+              settings or by contacting us at{" "}
+              <a
+                href="mailto:info@helixaai.com"
+                className="text-indigo-600 hover:text-indigo-700 hover:underline font-semibold"
+              >
+                info@helixaai.com
+              </a>
+              .
             </p>
           </section>
 
-        <section className="mb-6 md:mb-8">
-          <h2 className="text-xl sm:text-2xl font-semibold text-gray-900 mb-3 md:mb-4">
-            5. How We Use Your Data
-          </h2>
-          <p className="text-gray-700 text-sm md:text-base mb-3 md:mb-4 leading-relaxed">
-            We use your information to:
-          </p>
-          <ul className="list-disc list-inside text-gray-700 mb-3 md:mb-4 space-y-1 md:space-y-2 ml-2 md:ml-4 text-sm md:text-base">
-            <li>Track and display your glucose readings and health progress</li>
-            <li>Generate AI insights and recommendations based on your patterns</li>
-            <li>Forecast possible sugar spikes or drops</li>
-            <li>Suggest meals and fasting plans tailored to your lifestyle</li>
-            <li>Predict long-term risks (e.g., neuropathy, retinopathy)</li>
-            <li>Conduct anonymised analytics to improve the platform</li>
-            <li>Ensure compliance and maintain system security</li>
-          </ul>
-        </section>
+          <section className="mb-6 md:mb-8">
+            <h2 className="text-xl sm:text-2xl font-semibold text-gray-900 mb-3 md:mb-4">
+              5. How We Use Your Data
+            </h2>
+            <p className="text-gray-700 text-sm md:text-base mb-3 md:mb-4 leading-relaxed">
+              We use your information to:
+            </p>
+            <ul className="list-disc list-inside text-gray-700 mb-3 md:mb-4 space-y-1 md:space-y-2 ml-2 md:ml-4 text-sm md:text-base">
+              <li>
+                Track and display your glucose readings and health progress
+              </li>
+              <li>
+                Generate AI insights and recommendations based on your patterns
+              </li>
+              <li>Forecast possible sugar spikes or drops</li>
+              <li>
+                Suggest meals and fasting plans tailored to your lifestyle
+              </li>
+              <li>Predict long-term risks (e.g., neuropathy, retinopathy)</li>
+              <li>Conduct anonymised analytics to improve the platform</li>
+              <li>Ensure compliance and maintain system security</li>
+            </ul>
+          </section>
 
-        <section className="mb-6 md:mb-8">
-          <h2 className="text-xl sm:text-2xl font-semibold text-gray-900 mb-3 md:mb-4">
-            6. AI and Machine Learning Use
-          </h2>
-          <p className="text-gray-700 text-sm md:text-base mb-3 md:mb-4 leading-relaxed">
-            SugarCare integrates Artificial Intelligence (AI) and Machine Learning (ML) models to personalize your experience responsibly.
-          </p>
-          <ul className="list-disc list-inside text-gray-700 mb-3 md:mb-4 space-y-1 md:space-y-2 ml-2 md:ml-4 text-sm md:text-base">
-            <li><strong className="text-gray-900">Predictive Models:</strong> Use historical glucose and lifestyle data to predict trends.</li>
-            <li><strong className="text-gray-900">Food Image Recognition:</strong> Automatically estimate nutritional values from uploaded food photos.</li>
-            <li><strong className="text-gray-900">Explainable AI:</strong> We employ Explainable AI techniques (e.g., SHAP, IG) to make our predictions transparent.</li>
-            <li><strong className="text-gray-900">Personalised Risk Forecasting:</strong> Identifies potential long-term health risks based on trends.</li>
-            <li><strong className="text-gray-900">Community Insights:</strong> Aggregated and anonymised data may be used to identify broader lifestyle trends without identifying individual users.</li>
-          </ul>
-          <p className="text-gray-700 text-sm md:text-base mb-3 md:mb-4 leading-relaxed">
-            All AI processing involving sensitive health data is done securely and only with explicit user consent.
-          </p>
-        </section>
+          <section className="mb-6 md:mb-8">
+            <h2 className="text-xl sm:text-2xl font-semibold text-gray-900 mb-3 md:mb-4">
+              6. AI and Machine Learning Use
+            </h2>
+            <p className="text-gray-700 text-sm md:text-base mb-3 md:mb-4 leading-relaxed">
+              SugarCare integrates Artificial Intelligence (AI) and Machine
+              Learning (ML) models to personalize your experience responsibly.
+            </p>
+            <ul className="list-disc list-inside text-gray-700 mb-3 md:mb-4 space-y-1 md:space-y-2 ml-2 md:ml-4 text-sm md:text-base">
+              <li>
+                <strong className="text-gray-900">Predictive Models:</strong>{" "}
+                Use historical glucose and lifestyle data to predict trends.
+              </li>
+              <li>
+                <strong className="text-gray-900">
+                  Food Image Recognition:
+                </strong>{" "}
+                Automatically estimate nutritional values from uploaded food
+                photos.
+              </li>
+              <li>
+                <strong className="text-gray-900">Explainable AI:</strong> We
+                employ Explainable AI techniques (e.g., SHAP, IG) to make our
+                predictions transparent.
+              </li>
+              <li>
+                <strong className="text-gray-900">
+                  Personalised Risk Forecasting:
+                </strong>{" "}
+                Identifies potential long-term health risks based on trends.
+              </li>
+              <li>
+                <strong className="text-gray-900">Community Insights:</strong>{" "}
+                Aggregated and anonymised data may be used to identify broader
+                lifestyle trends without identifying individual users.
+              </li>
+            </ul>
+            <p className="text-gray-700 text-sm md:text-base mb-3 md:mb-4 leading-relaxed">
+              All AI processing involving sensitive health data is done securely
+              and only with explicit user consent.
+            </p>
+          </section>
 
-        <section className="mb-6 md:mb-8">
-          <h2 className="text-xl sm:text-2xl font-semibold text-gray-900 mb-3 md:mb-4">
-            7. Data Sharing and Transfers
-          </h2>
-          <p className="text-gray-700 text-sm md:text-base mb-3 md:mb-4 leading-relaxed">
-            We do not sell or rent your personal data.
-          </p>
-          <p className="text-gray-700 text-sm md:text-base mb-3 md:mb-4 leading-relaxed">
-            We may share limited data only under these circumstances:
-          </p>
-          <ul className="list-disc list-inside text-gray-700 mb-3 md:mb-4 space-y-1 md:space-y-2 ml-2 md:ml-4 text-sm md:text-base">
-            <li><strong className="text-gray-900">Service Providers:</strong> With trusted partners who assist in cloud hosting, analytics, or communication — all bound by data protection agreements.</li>
-            <li><strong className="text-gray-900">Medical Professionals:</strong> Only with your explicit consent.</li>
-            <li><strong className="text-gray-900">Legal Authorities:</strong> When required by law or government request.</li>
-            <li><strong className="text-gray-900">Aggregated Research:</strong> Non-identifiable data may be used for public health research or product improvement.</li>
-          </ul>
-          <p className="text-gray-700 text-sm md:text-base mb-3 md:mb-4 leading-relaxed">
-            If we transfer your data outside the UK (e.g., to secure cloud servers), we ensure appropriate safeguards such as UK International Data Transfer Agreements (IDTA) or adequacy decisions approved by the UK ICO.
-          </p>
-        </section>
+          <section className="mb-6 md:mb-8">
+            <h2 className="text-xl sm:text-2xl font-semibold text-gray-900 mb-3 md:mb-4">
+              7. Data Sharing and Transfers
+            </h2>
+            <p className="text-gray-700 text-sm md:text-base mb-3 md:mb-4 leading-relaxed">
+              We do not sell or rent your personal data.
+            </p>
+            <p className="text-gray-700 text-sm md:text-base mb-3 md:mb-4 leading-relaxed">
+              We may share limited data only under these circumstances:
+            </p>
+            <ul className="list-disc list-inside text-gray-700 mb-3 md:mb-4 space-y-1 md:space-y-2 ml-2 md:ml-4 text-sm md:text-base">
+              <li>
+                <strong className="text-gray-900">Service Providers:</strong>{" "}
+                With trusted partners who assist in cloud hosting, analytics, or
+                communication — all bound by data protection agreements.
+              </li>
+              <li>
+                <strong className="text-gray-900">
+                  Medical Professionals:
+                </strong>{" "}
+                Only with your explicit consent.
+              </li>
+              <li>
+                <strong className="text-gray-900">Legal Authorities:</strong>{" "}
+                When required by law or government request.
+              </li>
+              <li>
+                <strong className="text-gray-900">Aggregated Research:</strong>{" "}
+                Non-identifiable data may be used for public health research or
+                product improvement.
+              </li>
+            </ul>
+            <p className="text-gray-700 text-sm md:text-base mb-3 md:mb-4 leading-relaxed">
+              If we transfer your data outside the UK (e.g., to secure cloud
+              servers), we ensure appropriate safeguards such as UK
+              International Data Transfer Agreements (IDTA) or adequacy
+              decisions approved by the UK ICO.
+            </p>
+          </section>
 
-        <section className="mb-6 md:mb-8">
-          <h2 className="text-xl sm:text-2xl font-semibold text-gray-900 mb-3 md:mb-4">
-            8. Data Security
-          </h2>
-          <p className="text-gray-700 text-sm md:text-base mb-3 md:mb-4 leading-relaxed">
-            We implement strong encryption (SSL/TLS) and industry-standard measures to protect your personal and health data from unauthorized access, loss, or alteration.
-          </p>
-          <p className="text-gray-700 text-sm md:text-base mb-3 md:mb-4 leading-relaxed">
-            Access to data is strictly limited to authorized personnel bound by confidentiality agreements.
-          </p>
-        </section>
+          <section className="mb-6 md:mb-8">
+            <h2 className="text-xl sm:text-2xl font-semibold text-gray-900 mb-3 md:mb-4">
+              8. Data Security
+            </h2>
+            <p className="text-gray-700 text-sm md:text-base mb-3 md:mb-4 leading-relaxed">
+              We implement strong encryption (SSL/TLS) and industry-standard
+              measures to protect your personal and health data from
+              unauthorized access, loss, or alteration.
+            </p>
+            <p className="text-gray-700 text-sm md:text-base mb-3 md:mb-4 leading-relaxed">
+              Access to data is strictly limited to authorized personnel bound
+              by confidentiality agreements.
+            </p>
+          </section>
 
-        <section className="mb-6 md:mb-8">
-          <h2 className="text-xl sm:text-2xl font-semibold text-gray-900 mb-3 md:mb-4">
-            9. Data Retention
-          </h2>
-          <p className="text-gray-700 text-sm md:text-base mb-3 md:mb-4 leading-relaxed">
-            We retain your data only for as long as necessary to provide our services or comply with legal obligations.
-          </p>
-          <p className="text-gray-700 text-sm md:text-base mb-3 md:mb-4 leading-relaxed">
-            You can request account deletion at any time by contacting <a href="mailto:support@sugarcare.cloud" className="text-[#4252FF] hover:underline">support@sugarcare.cloud</a>.
-          </p>
-          <p className="text-gray-700 text-sm md:text-base mb-3 md:mb-4 leading-relaxed">
-            Upon deletion, your data will be securely erased within 30 days unless retention is required by law.
-          </p>
-        </section>
+          <section className="mb-6 md:mb-8">
+            <h2 className="text-xl sm:text-2xl font-semibold text-gray-900 mb-3 md:mb-4">
+              9. Data Retention
+            </h2>
+            <p className="text-gray-700 text-sm md:text-base mb-3 md:mb-4 leading-relaxed">
+              We retain your data only for as long as necessary to provide our
+              services or comply with legal obligations.
+            </p>
+            <p className="text-gray-700 text-sm md:text-base mb-3 md:mb-4 leading-relaxed">
+              You can request account deletion at any time by contacting{" "}
+              <a
+                href="mailto:info@helixaai.com"
+                className="text-[#4252FF] hover:underline"
+              >
+                info@helixaai.com
+              </a>
+              .
+            </p>
+            <p className="text-gray-700 text-sm md:text-base mb-3 md:mb-4 leading-relaxed">
+              Upon deletion, your data will be securely erased within 30 days
+              unless retention is required by law.
+            </p>
+          </section>
 
-        <section className="mb-6 md:mb-8">
-          <h2 className="text-xl sm:text-2xl font-semibold text-gray-900 mb-3 md:mb-4">
-            10. Your Rights (Under UK GDPR)
-          </h2>
-          <p className="text-gray-700 text-sm md:text-base mb-3 md:mb-4 leading-relaxed">
-            As a UK user, you have the following rights:
-          </p>
-          <ul className="list-disc list-inside text-gray-700 mb-3 md:mb-4 space-y-1 md:space-y-2 ml-2 md:ml-4 text-sm md:text-base">
-            <li><strong className="text-gray-900">Right to Access</strong> – Request a copy of your personal data.</li>
-            <li><strong className="text-gray-900">Right to Rectification</strong> – Correct inaccurate or incomplete data.</li>
-            <li><strong className="text-gray-900">Right to Erasure ("Right to be Forgotten")</strong> – Request deletion of your data.</li>
-            <li><strong className="text-gray-900">Right to Restrict Processing</strong> – Limit how your data is used.</li>
-            <li><strong className="text-gray-900">Right to Data Portability</strong> – Receive your data in a machine-readable format.</li>
-            <li><strong className="text-gray-900">Right to Object</strong> – Object to data processing under legitimate interests.</li>
-            <li><strong className="text-gray-900">Right to Withdraw Consent</strong> – Withdraw consent for any processing at any time.</li>
-          </ul>
-          <p className="text-gray-700 text-sm md:text-base mb-3 md:mb-4 leading-relaxed">
-            To exercise these rights, please contact us at <a href="mailto:support@sugarcare.cloud" className="text-[#4252FF] hover:underline">support@sugarcare.cloud</a>.
-          </p>
-          <p className="text-gray-700 text-sm md:text-base mb-3 md:mb-4 leading-relaxed">
-            If you are not satisfied with our response, you may file a complaint with the Information Commissioner's Office (ICO) at{" "}
-            <a 
-              href="https://ico.org.uk/" 
-              target="_blank" 
-              rel="noopener noreferrer"
-              className="text-[#4252FF] hover:underline"
-            >
-              https://ico.org.uk/
-            </a>.
-          </p>
-        </section>
+          <section className="mb-6 md:mb-8">
+            <h2 className="text-xl sm:text-2xl font-semibold text-gray-900 mb-3 md:mb-4">
+              10. Your Rights (Under UK GDPR)
+            </h2>
+            <p className="text-gray-700 text-sm md:text-base mb-3 md:mb-4 leading-relaxed">
+              As a UK user, you have the following rights:
+            </p>
+            <ul className="list-disc list-inside text-gray-700 mb-3 md:mb-4 space-y-1 md:space-y-2 ml-2 md:ml-4 text-sm md:text-base">
+              <li>
+                <strong className="text-gray-900">Right to Access</strong> –
+                Request a copy of your personal data.
+              </li>
+              <li>
+                <strong className="text-gray-900">
+                  Right to Rectification
+                </strong>{" "}
+                – Correct inaccurate or incomplete data.
+              </li>
+              <li>
+                <strong className="text-gray-900">
+                  Right to Erasure ("Right to be Forgotten")
+                </strong>{" "}
+                – Request deletion of your data.
+              </li>
+              <li>
+                <strong className="text-gray-900">
+                  Right to Restrict Processing
+                </strong>{" "}
+                – Limit how your data is used.
+              </li>
+              <li>
+                <strong className="text-gray-900">
+                  Right to Data Portability
+                </strong>{" "}
+                – Receive your data in a machine-readable format.
+              </li>
+              <li>
+                <strong className="text-gray-900">Right to Object</strong> –
+                Object to data processing under legitimate interests.
+              </li>
+              <li>
+                <strong className="text-gray-900">
+                  Right to Withdraw Consent
+                </strong>{" "}
+                – Withdraw consent for any processing at any time.
+              </li>
+            </ul>
+            <p className="text-gray-700 text-sm md:text-base mb-3 md:mb-4 leading-relaxed">
+              To exercise these rights, please contact us at{" "}
+              <a
+                href="mailto:info@helixaai.com"
+                className="text-[#4252FF] hover:underline"
+              >
+                info@helixaai.com
+              </a>
+              .
+            </p>
+            <p className="text-gray-700 text-sm md:text-base mb-3 md:mb-4 leading-relaxed">
+              If you are not satisfied with our response, you may file a
+              complaint with the Information Commissioner's Office (ICO) at{" "}
+              <a
+                href="https://ico.org.uk/"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="text-[#4252FF] hover:underline"
+              >
+                https://ico.org.uk/
+              </a>
+              .
+            </p>
+          </section>
 
-        <section className="mb-6 md:mb-8">
-          <h2 className="text-xl sm:text-2xl font-semibold text-gray-900 mb-3 md:mb-4">
-            11. Cookies and Tracking
-          </h2>
-          <p className="text-gray-700 text-sm md:text-base mb-3 md:mb-4 leading-relaxed">
-            Our website uses cookies and similar technologies to enhance functionality and analyze traffic.
-          </p>
-          <p className="text-gray-700 text-sm md:text-base mb-3 md:mb-4 leading-relaxed">
-            You can manage or disable cookies through your browser settings.
-          </p>
-          <p className="text-gray-700 text-sm md:text-base mb-3 md:mb-4 leading-relaxed">
-            For more details, see our Cookie Policy.
-          </p>
-        </section>
+          <section className="mb-6 md:mb-8">
+            <h2 className="text-xl sm:text-2xl font-semibold text-gray-900 mb-3 md:mb-4">
+              11. Cookies and Tracking
+            </h2>
+            <p className="text-gray-700 text-sm md:text-base mb-3 md:mb-4 leading-relaxed">
+              Our website uses cookies and similar technologies to enhance
+              functionality and analyze traffic.
+            </p>
+            <p className="text-gray-700 text-sm md:text-base mb-3 md:mb-4 leading-relaxed">
+              You can manage or disable cookies through your browser settings.
+            </p>
+            <p className="text-gray-700 text-sm md:text-base mb-3 md:mb-4 leading-relaxed">
+              For more details, see our Cookie Policy.
+            </p>
+          </section>
 
-        <section className="mb-6 md:mb-8">
-          <h2 className="text-xl sm:text-2xl font-semibold text-gray-900 mb-3 md:mb-4">
-            12. Children's Privacy
-          </h2>
-          <p className="text-gray-700 text-sm md:text-base mb-3 md:mb-4 leading-relaxed">
-            SugarCare is not designed for children under 13 years old.
-          </p>
-          <p className="text-gray-700 text-sm md:text-base mb-3 md:mb-4 leading-relaxed">
-            We do not knowingly collect personal data from minors.
-          </p>
-          <p className="text-gray-700 text-sm md:text-base mb-3 md:mb-4 leading-relaxed">
-            If we discover such data, it will be promptly deleted.
-          </p>
-        </section>
+          <section className="mb-6 md:mb-8">
+            <h2 className="text-xl sm:text-2xl font-semibold text-gray-900 mb-3 md:mb-4">
+              12. Children's Privacy
+            </h2>
+            <p className="text-gray-700 text-sm md:text-base mb-3 md:mb-4 leading-relaxed">
+              SugarCare is not designed for children under 13 years old.
+            </p>
+            <p className="text-gray-700 text-sm md:text-base mb-3 md:mb-4 leading-relaxed">
+              We do not knowingly collect personal data from minors.
+            </p>
+            <p className="text-gray-700 text-sm md:text-base mb-3 md:mb-4 leading-relaxed">
+              If we discover such data, it will be promptly deleted.
+            </p>
+          </section>
 
-        <section className="mb-6 md:mb-8">
-          <h2 className="text-xl sm:text-2xl font-semibold text-gray-900 mb-3 md:mb-4">
-            13. Policy Updates
-          </h2>
-          <p className="text-gray-700 text-sm md:text-base mb-3 md:mb-4 leading-relaxed">
-            We may update this Privacy Policy from time to time.
-          </p>
-          <p className="text-gray-700 text-sm md:text-base mb-3 md:mb-4 leading-relaxed">
-            All updates will be posted on our website and within the app, indicating the "Last Updated" date above.
-          </p>
-          <p className="text-gray-700 text-sm md:text-base mb-3 md:mb-4 leading-relaxed">
-            Significant changes will be communicated to users via email or in-app notifications.
-          </p>
-        </section>
+          <section className="mb-6 md:mb-8">
+            <h2 className="text-xl sm:text-2xl font-semibold text-gray-900 mb-3 md:mb-4">
+              13. Policy Updates
+            </h2>
+            <p className="text-gray-700 text-sm md:text-base mb-3 md:mb-4 leading-relaxed">
+              We may update this Privacy Policy from time to time.
+            </p>
+            <p className="text-gray-700 text-sm md:text-base mb-3 md:mb-4 leading-relaxed">
+              All updates will be posted on our website and within the app,
+              indicating the "Last Updated" date above.
+            </p>
+            <p className="text-gray-700 text-sm md:text-base mb-3 md:mb-4 leading-relaxed">
+              Significant changes will be communicated to users via email or
+              in-app notifications.
+            </p>
+          </section>
 
           <section className="mb-10 md:mb-12 p-8 md:p-10 bg-white rounded-2xl shadow-lg border border-gray-100 hover:shadow-xl transition-shadow duration-300">
             <div className="flex items-center gap-3 mb-6">
@@ -396,11 +542,90 @@ export default function PrivacyPolicy() {
                 <span className="text-white font-bold text-xl">14</span>
               </div>
               <h2 className="text-2xl sm:text-3xl md:text-4xl font-semibold tracking-tight text-slate-900">
+                Account and Data Deletion
+              </h2>
+            </div>
+            <div className="space-y-5">
+              <p className="text-gray-700 text-base md:text-lg leading-relaxed">
+                You have the right to request deletion of your account and all associated personal data at any time. We are committed to respecting your privacy and providing you with full control over your information.
+              </p>
+              
+              <div className="p-6 bg-gradient-to-br from-red-50 to-orange-50 rounded-2xl border-2 border-red-200 shadow-md hover:shadow-lg transition-shadow duration-300">
+                <h3 className="text-xl md:text-2xl font-bold text-gray-900 mb-4 flex items-center gap-2">
+                  <span className="text-2xl">📱</span> How to Delete Your Account
+                </h3>
+                <p className="text-gray-700 text-base md:text-lg mb-4 leading-relaxed">
+                  Follow these simple steps to delete your account:
+                </p>
+                <ol className="list-decimal list-inside text-gray-700 space-y-2 ml-4 text-base md:text-lg">
+                  <li>Open the <span className="font-semibold text-gray-900">SugarCare app</span></li>
+                  <li>Go to <span className="font-semibold text-gray-900">Settings</span></li>
+                  <li>Tap <span className="font-semibold text-gray-900">"Delete Account"</span></li>
+                  <li>Confirm your request when prompted</li>
+                </ol>
+              </div>
+
+              <div className="p-6 bg-gradient-to-br from-purple-50 to-pink-50 rounded-2xl border-2 border-purple-200 shadow-md hover:shadow-lg transition-shadow duration-300">
+                <h3 className="text-xl md:text-2xl font-bold text-gray-900 mb-4 flex items-center gap-2">
+                  <span className="text-2xl">📧</span> Alternative Method: Email Request
+                </h3>
+                <p className="text-gray-700 text-base md:text-lg mb-3 leading-relaxed">
+                  You can also request account deletion by emailing our support team:
+                </p>
+                <div className="bg-white p-4 rounded-lg border border-purple-200">
+                  <p className="text-gray-700 text-base md:text-lg">
+                    <span className="font-semibold text-gray-900">Email:</span>{" "}
+                    <a
+                      href="mailto:info@helixaai.com"
+                      className="text-indigo-600 hover:text-indigo-700 hover:underline font-semibold"
+                    >
+                      info@helixaai.com
+                    </a>
+                  </p>
+                  <p className="text-gray-700 text-base md:text-lg mt-2">
+                    <span className="font-semibold text-gray-900">Subject:</span> Account Deletion Request
+                  </p>
+                </div>
+              </div>
+
+              <div className="p-6 bg-blue-50 rounded-xl border border-blue-200">
+                <h3 className="text-xl md:text-2xl font-bold text-gray-900 mb-4 flex items-center gap-2">
+                  <span className="text-2xl">🗑️</span> What Happens After Deletion
+                </h3>
+                <ul className="list-disc list-inside text-gray-700 space-y-2 ml-4 text-base md:text-lg">
+                  <li>Your account will be <span className="font-semibold text-gray-900">permanently deleted</span></li>
+                  <li>All <span className="font-semibold text-gray-900">personal and health data</span> will be removed from our systems</li>
+                  <li>Some data may be retained for up to <span className="font-semibold text-gray-900">30 days</span> for legal, security, or backup purposes</li>
+                  <li>Anonymized, aggregated data may be retained for analytics but cannot identify you personally</li>
+                </ul>
+              </div>
+
+              <div className="bg-yellow-50 border-l-4 border-yellow-400 p-6 rounded-r-lg">
+                <p className="text-gray-700 text-base md:text-lg leading-relaxed">
+                  <span className="font-semibold text-gray-900">⚠️ Important:</span> Once your data is deleted, it cannot be recovered. Please ensure you have backed up any information you wish to keep before requesting deletion. For complete details, visit our{" "}
+                  <a
+                    href="/data-deletion"
+                    className="text-indigo-600 hover:text-indigo-700 hover:underline font-semibold"
+                  >
+                    Data Deletion Policy
+                  </a>.
+                </p>
+              </div>
+            </div>
+          </section>
+
+          <section className="mb-10 md:mb-12 p-8 md:p-10 bg-white rounded-2xl shadow-lg border border-gray-100 hover:shadow-xl transition-shadow duration-300">
+            <div className="flex items-center gap-3 mb-6">
+              <div className="w-12 h-12 bg-gradient-to-br from-indigo-600 to-blue-600 rounded-xl flex items-center justify-center">
+                <span className="text-white font-bold text-xl">15</span>
+              </div>
+              <h2 className="text-2xl sm:text-3xl md:text-4xl font-semibold tracking-tight text-slate-900">
                 Contact Us
               </h2>
             </div>
             <p className="text-gray-700 text-base md:text-lg mb-6 leading-relaxed">
-              If you have questions, concerns, or requests related to your personal data, please contact:
+              If you have questions, concerns, or requests related to your
+              personal data, please contact:
             </p>
             <div className="bg-gradient-to-br from-indigo-50 to-blue-50 border-2 border-indigo-200 p-6 md:p-8 rounded-2xl shadow-md hover:shadow-lg transition-shadow duration-300">
               <p className="text-gray-900 font-extrabold mb-4 text-xl md:text-2xl">
@@ -408,12 +633,21 @@ export default function PrivacyPolicy() {
               </p>
               <div className="space-y-3">
                 <p className="text-gray-700 text-base md:text-lg flex items-start">
-                  <span className="mr-3 text-2xl">📧</span> 
-                  <span><a href="mailto:support@sugarcare.cloud" className="text-indigo-600 hover:text-indigo-700 hover:underline font-semibold">support@sugarcare.cloud</a></span>
+                  <span className="mr-3 text-2xl">📧</span>
+                  <span>
+                    <a
+                      href="mailto:info@helixaai.com"
+                      className="text-indigo-600 hover:text-indigo-700 hover:underline font-semibold"
+                    >
+                      info@helixaai.com
+                    </a>
+                  </span>
                 </p>
                 <p className="text-gray-700 text-base md:text-lg flex items-start">
-                  <span className="mr-3 text-2xl">📍</span> 
-                  <span>SugarCare Technologies Ltd., London, United Kingdom</span>
+                  <span className="mr-3 text-2xl">📍</span>
+                  <span>
+                    SugarCare Technologies Ltd., London, United Kingdom
+                  </span>
                 </p>
               </div>
             </div>
